@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Distilde
 - 👀 I’m interested in making apps
-- 🌱 I’m currently learning Javascript and Python
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on apps
 - 📫 Working on that
 
